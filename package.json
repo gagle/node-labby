@@ -1,0 +1,17 @@
+{
+  "name": "labby",
+  "version": "0.0.0",
+  "description": "Flavored Lab runner",
+  "keywords": [
+    "hapi",
+    "lab",
+    "test"
+  ],
+  "author": "Gabriel Llamas <gagle@outlook.com>",
+  "repository": "git://github.com/gagle/node-labby.git",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "license": "MIT",
+  "main": "lib"
+}
